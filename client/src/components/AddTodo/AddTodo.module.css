@@ -1,0 +1,14 @@
+.addTodoContainer{
+    width:200px;
+    max-width:200px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 0.5rem;
+}
+
+.addTodoContainer:hover{
+    background-color: rgb(167, 255, 255);
+    color: black;
+    border: 2px solid black;
+}
